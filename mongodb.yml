@@ -28,5 +28,4 @@
           - DockerVolume:/data/db
     - name: Create docker Volume
       docker_volume:
-        name: DockerVolume
-    -     
+        name: DockerVolume    
